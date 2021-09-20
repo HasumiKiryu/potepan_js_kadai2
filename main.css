@@ -1,0 +1,22 @@
+.calc{
+  width: 200px;
+  height: 200px;
+}
+
+.text{
+  /*background-color: black;
+  color: white;*/
+  width: 85%;
+}
+
+.button4 input{
+  display: inline-block;
+  box-sizing: border-box;
+  width: calc((80%)/4);
+}
+
+.button2 input{
+  display: inline-block;
+  box-sizing: border-box;
+  width: calc((85%)/2);
+}
